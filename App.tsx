@@ -5,6 +5,7 @@ import AppLoading from 'expo-app-loading';
 
 import { Routes } from './src/routes';
 import { StatusBar } from 'react-native';
+import { Background } from './src/components/Background';
 
 export default function App() {
 
@@ -22,7 +23,7 @@ export default function App() {
   }
 
   return (
-    <>
+    <Background>
 
       <StatusBar
         barStyle="light-content"
@@ -32,7 +33,7 @@ export default function App() {
 
       <Routes />
 
-    </>
+    </Background>
   )
 
 }
