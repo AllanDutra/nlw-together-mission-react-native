@@ -14,10 +14,10 @@
 Enviroments Variables, all of Discord OAuth2
 
 	 -  REDIRECT_URI
-	 -	SCOPE
-	 -	RESPONSE_TYPE
-	 -	CLIENT_ID
-	 -	CDN_IMAGE
+	 -  SCOPE
+	 -  RESPONSE_TYPE
+	 -  CLIENT_ID
+	 -  CDN_IMAGE
 
 ## 🔧 Installation
 `$ git clone https://github.com/AllanDutra/nlw-together-mission-react-native.git`
