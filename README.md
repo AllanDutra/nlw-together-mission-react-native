@@ -4,7 +4,7 @@
 ![imagem-de-apresentacao](https://ik.imagekit.io/ghmg33v8b/nlw-together-mission-react-native-presentation_8OGgXAJ_3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657756592970)
 
 ## 🌐 Status
-<p>Projeto finalizado ✅</p>
+<p>Finished project ✅</p>
 
 ## 🧰 Prerequisites
 <p>Node JS</p>
